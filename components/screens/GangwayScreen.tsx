@@ -70,7 +70,7 @@ export const GangwayScreen: React.FC<GangwayScreenProps> = ({ userProfile, onUpd
         </div>
 
         <div className="bg-slate-900/50 p-4 border border-cyan-500/30 rounded text-sm text-cyan-200 font-mono mb-4">
-            > Veuillez sélectionner jusqu'à 5 modules pour configurer votre interface neuronale.
+            Veuillez sélectionner jusqu'à 5 modules pour configurer votre interface neuronale.
             Ces choix influenceront la calibration.
         </div>
 
